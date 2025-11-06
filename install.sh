@@ -31,7 +31,5 @@ pip install -r requirements.txt
 
 echo ""
 echo "--- Setup Complete! ---"
-echo ""
-echo "You can start your server with:"
-echo "  python main.py"
+echo "Run python3 main.py to start the application."
 echo ""
